@@ -1,1 +1,3 @@
-# codekata
+# Codekata
+
+# How It Started
