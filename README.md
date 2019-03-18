@@ -34,5 +34,4 @@ I add a new kata every week or so. Invest some time in your craft and try them.
 Remember that the point of the kata is not arriving at a correct answer. 
 The point is the stuff you learn along the way. The goal is the practice, not the solution.
 
-# How It Started(원문)
-# How It Started(번역)
+# How It Started
