@@ -1,4 +1,4 @@
-Kata01 : Supermarket Pricing
+[Kata01 : Supermarket Pricing](http://codekata.com/kata/kata01-supermarket-pricing/)
 -------------------------------
 
 This kata arose from some discussions we’ve been having at the DFW Practioners meetings. The problem domain is something seemingly simple: pricing goods at supermarkets.
