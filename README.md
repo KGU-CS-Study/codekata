@@ -1,4 +1,4 @@
-Codekata(http://codekata.com/)
+[Codekata](http://codekata.com/)
 -------------------------------------------
 How do you get to be a great musician? It helps to know the theory, and to understand the mechanics of your instrument. 
 It helps to have talent. 
