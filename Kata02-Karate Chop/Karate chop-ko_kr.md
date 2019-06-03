@@ -8,13 +8,18 @@ This Kata is straightforward. Implement a binary search routine (using the speci
 
 ## Goal
 
-This Kata has three separate goals:
+This Kata has three separate goals:  
+```이  카타는 세가지 목표를 갖습니다 :```
 
-1. As you’re coding each algorithm, keep a note of the kinds of error you encounter. A binary search is a ripe breeding ground for “off by one” and fencepost errors. As you progress through the week, see if the frequency of these errors decreases (that is, do you learn from experience in one technique when it comes to coding with a different technique?).
 
-2. What can you say about the relative merits of the various techniques you’ve chosen? Which is the most likely to make it in to production code? Which was the most fun to write? Which was the hardest to get working? And for all these questions, ask yourself “why?”.
+1. As you’re coding each algorithm, keep a note of the kinds of error you encounter. A binary search is a ripe breeding ground for “off by one” and fencepost errors. As you progress through the week, see if the frequency of these errors decreases (that is, do you learn from experience in one technique when it comes to coding with a different technique?).  
+```각 알고리즘을 코딩할때, 당신이 마주하는 에러의 종류를 적으세요. 바이너리 서치는 전신주 램프에러라고도 합니다. 일주일 동안 진행을 하면서, 오류의 빈도가 감소하는지 확인하세요 (즉, 너가 한가지 다른 기술로 코딩할 떄마다 다른 하나를 배웁니다.)```
 
-3. It’s fairly hard to come up with five unique approaches to a binary chop. How did you go about coming up with approaches four and five? What techniques did you use to fire those “off the wall” neurons?
+2. What can you say about the relative merits of the various techniques you’ve chosen? Which is the most likely to make it in to production code? Which was the most fun to write? Which was the hardest to get working? And for all these questions, ask yourself “why?”.  
+```너가 선택한 다양한 기술들 중에서 장점이 무엇인지 말 할 수 있나요? 무엇이 프로덕션 코드에 가장 근접한가요? 어떤 방법이 가장 재미있었고, 어떤 방버이 코딩하기에 가장 어려웠나요? 그리고 너에게 계속해서 질문하세요 왜? 라고  ```
+
+3. It’s fairly hard to come up with five unique approaches to a binary chop. How did you go about coming up with approaches four and five? What techniques did you use to fire those “off the wall” neurons?  
+``` binary chop 에 접근하기 위한 유니크한 5가지 접근법을 제시하는것은 어렵습니다. 4번째랑 5번째에 접근하기 위해 어떻게 했었나요? 마지막에 떨어지는 비트를 얻기 위한 사용한 방법은 무엇인가요?? ```
 
 
 ## Specification
