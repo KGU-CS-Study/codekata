@@ -24,15 +24,16 @@ This Kata has three separate goals:
 
 ## Specification
 Write a binary chop method that takes an integer search target and a sorted array of integers. It should return the integer index of the target in the array, or -1 if the target is not in the array. The signature will logically be:
+``` 바이너리 chop 의 방법은 정수 검색 대상과 정렬된 정수의 배열입니다. 이것은 그 배열의 타겟 인덱스 반환해야 하며 만약 타겟이 배열안에 없으면 -1 을 반환해야 합니다. 논리적으로 서명이 되어야 합니다.```
 
 ```ruby
 chop(int, array_of_int)  -> int
 ```
 You can assume that the array has less than 100,000 elements. For the purposes of this Kata, time and memory performance are not issues (assuming the chop terminates before you get bored and kill it, and that you have enough RAM to run it).
-
+``` 너는 배열의 갯수가 100,000 개 미만이라고 가정할 수 있습니다. 이 카타의 목적은 시관가 메모리 퍼포먼스의 이슈가 아닙니다. (충분한 램이 있음.)```
 ## Test Data
 Here is the Test::Unit code I used when developing my methods. Feel free to add to it. The tests assume that array indices start at zero. You’ll probably have to do a couple of global search-and-replaces to make this compile in your language of choice (unless your enlightened choice happens to be Ruby).
-
+``` 여기 테스트 유닛테스트 코드가 있습니다. 내가 이것을 개발을 했을때 나는 부담없이 추가를 했습니다. 그 테스트는 배열의 시작이 0 부터라고 가정합니다. 너는 아마도 두가지의 ~~ 가 필요할 것입니다. ```
 ```ruby
 def test_chop
   assert_equal(-1, chop(3, []))
